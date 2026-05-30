@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ir.ac.kntu.style.CheckPMDTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-05-29T10:07:40.232Z" hostname="AMOSOBI1GL502" time="1.211">
+  <properties/>
+  <testcase name="testPMD()" classname="ir.ac.kntu.style.CheckPMDTest" time="1.211"/>
+  <system-out><![CDATA[Found 0 PMD rule violations.
+]]></system-out>
+  <system-err><![CDATA[May 29, 2026 1:37:40 PM net.sourceforge.pmd.RuleSetFactory parseRuleReferenceNode
+WARNING: Discontinue using Rule name category/java/codestyle.xml/DefaultPackage as it is scheduled for removal from PMD. PMD 7.0.0 will remove support for this Rule.
+]]></system-err>
+</testsuite>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ir.ac.kntu.style.CheckStyleTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2026-05-29T10:07:41.445Z" hostname="AMOSOBI1GL502" time="0.482">
+  <properties/>
+  <testcase name="testCheckStyleIndentation()" classname="ir.ac.kntu.style.CheckStyleTest" time="0.428"/>
+  <testcase name="testCheckStyleNaming()" classname="ir.ac.kntu.style.CheckStyleTest" time="0.053"/>
+  <system-out><![CDATA[Root is set to "/home/sobhan/test1/academy-system/academy-system/src/main".
+Found 4 Java source files.
+Found 0 check style errors.
+Root is set to "/home/sobhan/test1/academy-system/academy-system/src/main".
+Found 4 Java source files.
+Found 0 check style errors.
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
