@@ -84,13 +84,6 @@ system.addCourse(course);
 
 system.enrollStudentInCourse(101, "JAVA101");</code></pre>
 
-
-## دستورات کار با پروژه
-
-<pre dir="ltr"><code># clone in your computer:
-git clone your_repo_url
-cd your_repo_dir
-
 # run tests from terminal:
 ./gradlew clean test
 
