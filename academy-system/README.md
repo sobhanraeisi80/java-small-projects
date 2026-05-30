@@ -84,7 +84,6 @@ system.addCourse(course);
 
 system.enrollStudentInCourse(101, "JAVA101");</code></pre>
 
-# run tests from terminal:
 ./gradlew clean test
 
 # push changes to the repository:
